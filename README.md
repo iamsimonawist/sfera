@@ -3,7 +3,7 @@ This repository contains the complete replication package accompanying my Master
 
 The repository is organised as follows:
 
-1_SFERA_RelatedWork
-2_SFERA_InitialSearch
-3_SFERA_DataExtraction
-4_SFERA_CaseStudy
+## 1_SFERA_RelatedWork
+## 2_SFERA_InitialSearch
+## 3_SFERA_DataExtraction
+## 4_SFERA_CaseStudy
